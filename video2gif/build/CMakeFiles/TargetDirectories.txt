@@ -1,0 +1,8 @@
+/Users/huangsonghao/off_work/video2gif/build/CMakeFiles/video2gif.dir
+/Users/huangsonghao/off_work/video2gif/build/CMakeFiles/video2gif_example.dir
+/Users/huangsonghao/off_work/video2gif/build/CMakeFiles/edit_cache.dir
+/Users/huangsonghao/off_work/video2gif/build/CMakeFiles/rebuild_cache.dir
+/Users/huangsonghao/off_work/video2gif/build/CMakeFiles/list_install_components.dir
+/Users/huangsonghao/off_work/video2gif/build/CMakeFiles/install.dir
+/Users/huangsonghao/off_work/video2gif/build/CMakeFiles/install/local.dir
+/Users/huangsonghao/off_work/video2gif/build/CMakeFiles/install/strip.dir
